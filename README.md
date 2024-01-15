@@ -24,4 +24,3 @@ Create a Docker image with the given Dockerfile and run the following commands a
 cd ClothSimulation/
 chmod 777 install.sh
 ./install.sh
-'''
